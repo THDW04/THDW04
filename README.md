@@ -25,7 +25,4 @@ Here are some ideas to get you started:
 🌱 En ce moment :
 - Je consolide mes bases en front-end (React, Node.js)
 - Je travaille sur des projets web dynamiques liés à mes études
-
-📫 Me contacter :
-- Par mail : nathaliavilasse@gmail.com
-- LinkedIn : [https://www.linkedin.com/in/nathalia-vilasse/](url)
+- Je suis à la recherche d'un stage de 2 mois minimun à partir d'avril 2026
