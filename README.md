@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 Étudiante en BUT MMI, je m’intéresse surtout au développement web et à la façon dont le code peut donner vie à des expériences utiles et accessibles.
 
-##💻 Ce que je fais :
+💻 Ce que je fais :
 - Développement web (HTML, CSS, JavaScript, PHP)
 - Intégration front et interfaces simples
 - Projets académiques et personnels autour du web
 
-##🌱 En ce moment :
+🌱 En ce moment :
 - Je consolide mes bases en front-end (React, Node.js)
 - Je travaille sur des projets web dynamiques liés à mes études
 
-##📫 Me contacter :
+📫 Me contacter :
 - Par mail : nathaliavilasse@gmail.com
 - LinkedIn : [https://www.linkedin.com/in/nathalia-vilasse/](url)
